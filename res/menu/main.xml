@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuMapNormal"
+        android:showAsAction="never"
+        android:title="Map Normal"/>
+    <item
+        android:id="@+id/menuMapSatellite"
+        android:showAsAction="never"
+        android:title="Map Satellite"/>
+    <item
+        android:id="@+id/menuMapTerrain"
+        android:showAsAction="never"
+        android:title="Map Terrain"/>
+
+</menu>
