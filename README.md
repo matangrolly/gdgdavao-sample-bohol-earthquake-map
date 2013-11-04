@@ -36,10 +36,27 @@ Eclipse is packaged with the [Android Developer Tools bundle](http://developer.a
   6. Press "Ok"
 
 ## Add your API key
-  1. Navigate to AndroidManifest.xml, under the "hellomap" project.
+  1. Navigate to AndroidManifest.xml, under the "BoholEarthquake" project.
   2. Click the "AndroidManifest.xml" tab, next to "Instrumentation", to see the XML view.
   3. Replace "your_api_key" with an API key generated using [these instructions](https://developers.google.com/maps/documentation/android/start#the_google_maps_api_key)
 
 ## Run the app
   1. Ensure your phone is in plugged in, developer mode enabled and screen unlocked
   2. Press the green arrow, or choose Run > Run
+  
+## License
+  Sample Earthquake Map App - Bohol Earthquake
+  Copyright (C) 2013  Rolly Rulete
+  
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+  
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
